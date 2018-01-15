@@ -8,15 +8,8 @@
     EBB firmware >=2.5.1
     Processing >=3.3.5
 
-  
-
   GCODE FORMAT NOTES IN QUEUERUNNERCLASS.PDE
   
-  TODO:
-    Press '?' for help.
-    Acceleration
-    Smoothing lots of small movements
-    UI refinements
 */
 
 // LIBRARIES ///////////////////////////////////////////////////////////////////
